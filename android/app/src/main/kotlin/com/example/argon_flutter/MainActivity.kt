@@ -1,4 +1,4 @@
-package com.example.flutter_studies
+package com.example.argon_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
